@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Smith",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-yashfeen-hospital-navsari-39.png",
+    "rating": 4.9,
+    "total_patients_served": 1250,
+    "category": "Aurtopady",
+    "experience": "15 years",
+    "education": "MBBS, FCPS",
+    "about": "Dr. Sarah Smith is a highly experienced Aurtopady specialist with 15 years of practice. She is dedicated to providing top-quality care to her patients.",
+    "visiting_price": 500,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "John Doe",
+        "comment": "Dr. Smith is amazing! She helped me recover from my injury quickly."
+      },
+      {
+        "patient_name": "Jane Smith",
+        "comment": "I trust Dr. Smith completely with my health. Highly recommended!"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. John Johnson",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/dentist-doctor-bhubaneswar-medical-doctor-36.png",
+    "rating": 4.8,
+    "total_patients_served": 980,
+    "category": "Orthopedics",
+    "experience": "20 years",
+    "education": "MBBS, MS Ortho",
+    "about": "Dr. John Johnson is a renowned Orthopedics specialist with two decades of experience. He excels in treating orthopedic conditions.",
+    "visiting_price": 700,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "Alice Johnson",
+        "comment": "Dr. Johnson's expertise is unmatched. He fixed my knee pain!"
+      },
+      {
+        "patient_name": "Bob Williams",
+        "comment": "I've been seeing Dr. Johnson for years. Always satisfied with the care I receive."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Davis",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/png-woman-doctor-transparent-woman-doctor-images-40.png",
+    "rating": 4.7,
+    "total_patients_served": 820,
+    "category": "Dermatology",
+    "experience": "12 years",
+    "education": "MBBS, MD Dermatology",
+    "about": "Dr. Emily Davis is a skilled Dermatologist with 12 years of experience. She specializes in transforming skin health and appearance.",
+    "visiting_price": 700,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "Ella Adams",
+        "comment": "Dr. Davis transformed my skin. I feel more confident than ever!"
+      },
+      {
+        "patient_name": "Sam Brown",
+        "comment": "Caring and knowledgeable, Dr. Davis is the best dermatologist around."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Dr. Michael Brown",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bulk-billing-doctors-chapel-hill-health-care-medical-3.png",
+    "rating": 4.6,
+    "total_patients_served": 1050,
+    "category": "Cardiology",
+    "experience": "18 years",
+    "education": "MBBS, MD Cardiology",
+    "about": "Dr. Michael Brown is a dedicated Cardiologist with 18 years of experience. He is committed to cardiac care and saving lives.",
+    "visiting_price": 900,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "Chris Evans",
+        "comment": "Dr. Brown saved my life. His dedication to his patients is unparalleled."
+      },
+      {
+        "patient_name": "Olivia Parker",
+        "comment": "I trust Dr. Brown with my heart health. He's the best in the field."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Dr. Jennifer Lee",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/png-woman-doctor-transparent-woman-doctor-images-37.png",
+    "rating": 4.9,
+    "total_patients_served": 1400,
+    "category": "Gynecology",
+    "experience": "16 years",
+    "education": "MBBS, MD OB/GYN",
+    "about": "Dr. Jennifer Lee is a compassionate Gynecologist with 16 years of experience. She provides comfortable and comprehensive care.",
+    "visiting_price": 500,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "Linda Adams",
+        "comment": "Dr. Lee is compassionate and thorough. She makes every visit comfortable."
+      },
+      {
+        "patient_name": "Mike Carter",
+        "comment": "I've recommended Dr. Lee to all my friends. She's simply the best."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. David Wilson",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-bikowski-skin-care-center-sewickey-pennsylvania-home-35.png",
+    "rating": 4.7,
+    "total_patients_served": 890,
+    "category": "Pediatrics",
+    "experience": "14 years",
+    "education": "MBBS, MD Pediatrics",
+    "about": "Dr. David Wilson is a pediatrician loved by kids and parents alike. He has 14 years of experience in child healthcare.",
+    "visiting_price": 600,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "Sophia Baker",
+        "comment": "Dr. Wilson is great with kids. My children adore him!"
+      },
+      {
+        "patient_name": "Daniel Hall",
+        "comment": "Trustworthy and caring, Dr. Wilson is our family's go-to pediatrician."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Dr. Jessica White",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-petit-asianfanfics-28.png",
+    "rating": 4.8,
+    "total_patients_served": 1150,
+    "category": "Ophthalmology",
+    "experience": "13 years",
+    "education": "MBBS, MS Ophthalmology",
+    "about": "Dr. Jessica White is a skilled Ophthalmologist with 13 years of experience. She specializes in improving vision.",
+    "visiting_price": 800,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "Grace Turner",
+        "comment": "Dr. White improved my vision significantly. I can't thank her enough!"
+      },
+      {
+        "patient_name": "Kevin Harris",
+        "comment": "Exceptional care and expertise. Dr. White is the best eye doctor in town."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Dr. Robert Garcia",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-declaire-lamacchia-orthopaedic-institute-15.png",
+    "rating": 4.9,
+    "total_patients_served": 1620,
+    "category": "Neurology",
+    "experience": "19 years",
+    "education": "MBBS, DM Neurology",
+    "about": "Dr. Robert Garcia is a Neurologist with 19 years of experience, specializing in the diagnosis and treatment of neurological conditions.",
+    "visiting_price": 700,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "Lisa Martinez",
+        "comment": "Dr. Garcia's knowledge of the brain is astounding. He diagnosed my condition accurately."
+      },
+      {
+        "patient_name": "Mark Robinson",
+        "comment": "I owe my recovery to Dr. Garcia. His dedication to his patients is unmatched."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Dr. Maria Martinez",
+    "img": "https://www.freepnglogos.com/uploads/doctor-png/doctor-png-transparent-doctor-images-pluspng-10.png",
+    "rating": 4.6,
+    "total_patients_served": 950,
+    "category": "Family Medicine",
+    "experience": "17 years",
+    "education": "MBBS, MD Family Medicine",
+    "about": "Dr. Maria Martinez is a caring Family Medicine specialist with 17 years of experience. She takes care of your family's health like her own.",
+    "visiting_price": 600,
+    "visiting_time": ["9:00 AM - 2:00 PM", "4:00 PM - 8:00 PM"],
+    "reviews": [
+      {
+        "patient_name": "Anna Clark",
+        "comment": "Dr. Martinez is my go-to for all family health matters. She's caring and thorough."
+      },
+      {
+        "patient_name": "Brian Turner",
+        "comment": "Our family trusts Dr. Martinez with our healthcare needs. She's a true gem."
+      }
+    ]
+  }
+]

@@ -1,0 +1,89 @@
+#app {
+    height: 100%;
+}
+
+html,
+body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+.swiper {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 800px;
+    /* Set the desired fixed height */
+    object-fit: cover;
+}
+
+.slide-container {
+    position: relative;
+    width: 100%;
+    /* Adjust the width as needed */
+}
+
+/* Style for the image within the slide */
+.img {
+    width: 100%;
+    height: auto;
+    /* Maintain aspect ratio */
+}
+
+/* Style for the text */
+.text {
+    position: absolute;
+    top: 15%;
+    right: 0;
+    padding: 10px;
+    /* Optional: Add padding for better spacing */
+    text-align: right;
+    /* Optional: Center align text */
+    font-size: 70px;
+    width: 40%;
+    margin-right: 15px;
+}
+
+@media screen and (max-width:576px) {
+    .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        /* Set the desired fixed height */
+        object-fit: cover;
+    }
+
+    .text {
+        position: absolute;
+        top: 20%;
+        right: 0;   
+        padding: 2px;
+        /* Optional: Add padding for better spacing */
+        text-align: center;
+        font-size: 25px;
+        
+    }
+}
